@@ -48,7 +48,7 @@ If you use the cached data, please uncomment the `--data_cache_dir` and `--read_
 
 ### Eval checkpoints
 
-Our compressed checkpoints are released at [checkpoints](). For convinence, we provide the full checkpoint of the first saved iteration (checkpoint-1000), so the total compressed file is larger than theoretical.
+Our compressed checkpoints are released at [baidu pan](https://pan.baidu.com/s/1534fBpUs-QaDSdAvgNxnpA?pwd=73h2). For convenience, we provide the full checkpoint of the first saved iteration (checkpoint-1000), so the total compressed file is larger than theoretical.
 
 Download the checkpoints and run the scripts to reconstruct all checkpoints saved in the training process.
 
