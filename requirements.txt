@@ -1,0 +1,9 @@
+transformers==4.35.2
+torch==2.0.1
+torchvision==0.15.2
+tqdm
+faiss-gpu
+numpy
+safetensors
+datasets
+sklearn
