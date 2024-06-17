@@ -62,6 +62,8 @@ bash scripts/recon_ckpts.sh
 |                        | Original model | 4.53G |   32.52   | 35.80 | 62.13 | 37.21 | 53.75 |  37.22  | 43.11 |
 |  Pythia-410M           |  Residual+7Zip | 3.40G |   32.52   | 35.80 | 62.13 | 37.21 | 53.75 |  37.22  | 43.11 |
 |             |   ExCP (Ours)  | 0.06G |   31.95   | 37.04 | 62.62 | 36.22 | 52.50 |  37.24  | 42.93 |
+
+
 ![loss](./fig/loss.png)
 <div align=center>
 <sup>Figure 2: Loss and checkpoint size curve of original Pythia-410M and compressed Pythia-410M.</sup>
