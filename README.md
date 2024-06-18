@@ -5,7 +5,7 @@
 
 *ICML 2024 Oral*
 
-<a href="https://arxiv.org/abs/"><img src="https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv"></a>
+<a href="https://arxiv.org/abs/2406.11257"><img src="https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv"></a>
 
 
 ## Updates
