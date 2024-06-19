@@ -46,16 +46,6 @@ If you use the cached data, please uncomment the `--data_cache_dir` and `--read_
 
 3. If you want to evaluate the model, you may use [open-compass](https://github.com/open-compass/opencompass).
 
-### Eval checkpoints
-
-Our compressed checkpoints will be released soon. For convenience, we provide the full checkpoint of the first saved iteration (checkpoint-1000), so the total compressed file is larger than theoretical.
-
-Download the checkpoints and run the scripts to reconstruct all checkpoints saved in the training process.
-
-```
-bash scripts/recon_ckpts.sh
-```
-
 ## Results
 |    Model    |     Method     |  Size | hellaswag | arc-e |  piqa |   C3  |  csl  | lambada |  Avg  |
 |:-----------:|:--------------:|:-----:|:---------:|:-----:|:-----:|:-----:|:-----:|:-------:|:-----:|
