@@ -9,6 +9,7 @@
 
 
 ## Updates
+* **2024/06/21**: Thanks to the contribution of Cbtor, there is an unofficial serial checkpoints of Pythia-410M [checkpoints](https://huggingface.co/Cbtor/ExCP). You can use `scripts/recon_ckpts.sh` to reconstruct all checkpoints during the training process.
 * **2024/06/14**: Training and compressing codes of Pythia-410M are released [here](https://github.com/Gaffey/ExCP).
 
 ## Overview
